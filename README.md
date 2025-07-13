@@ -1,4 +1,4 @@
-# Arabic Medical Semantic Qualifiers 💉🧠
+# Arabic Medical Semantic Qualifiers 💉
 
 This repository contains the full implementation and documentation of our graduation project titled:
 
@@ -62,10 +62,11 @@ Arabic-speaking healthcare systems often suffer from a lack of structured, stand
 
 ## 📊 Evaluation
 
-- Trained and evaluated on both real and AI-generated dialogues
-- Achieved **95%+ token-level accuracy** for BIO tagging on validation data
-- Logistic Regression classifier reached **87.94% accuracy** on diagnosis prediction
+The system was trained and evaluated on both **real** and **AI-generated Arabic medical dialogues**.
 
+- For the **symptom and qualifier extraction task** (BIO tagging), the **AraBERT + BiLSTM + CRF** model achieved **95.09% token-level accuracy** on the **validation set of AI-generated data**.
+
+- For the **diagnosis prediction task**, the **Logistic Regression** classifier reached **87.94% accuracy** on a **cardiac-specific dataset**, based on the presence or absence of extracted symptoms.
 ---
 
 ## 🔒 Limitations
