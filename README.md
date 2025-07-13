@@ -1,9 +1,9 @@
-# Arabic Medical Semantic Qualifiers 💉🧠🇵🇸
+# Arabic Medical Semantic Qualifiers 💉🧠
 
 This repository contains the full implementation and documentation of our graduation project titled:
 
 **"Arabic Medical Semantic Qualifiers for Symptom Extraction and Diagnosis Prediction"**  
-Bachelor of Science in Computer Engineering – Birzeit University  
+Bachelor of Computer Engineering – Birzeit University  
 **Authors**: Hidaya Mustafa, Rana Odeh, Katya Kobari  
 **Supervisor**: Dr. Adnan Yahya  
 **In collaboration with**: Dr. Lujain Alsadder (Queen Mary University of London)  
