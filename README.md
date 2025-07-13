@@ -56,7 +56,7 @@ Arabic-speaking healthcare systems often suffer from a lack of structured, stand
 | `Graduation_Project.ipynb` | Jupyter notebook with all AI and preprocessing steps |
 | `Report.pdf` | Full academic report detailing system design, implementation, and results |
 | `Presentation.pptx` | Final project presentation slides |
-| *(optional)* `data/`, `templates/`, `static/` | Input dialogues, web files, and outputs (add if available) |
+| *(optional)* `data/` | Input dialogues, web files, and outputs (we will add it soon) |
 
 ---
 
@@ -88,9 +88,9 @@ Arabic-speaking healthcare systems often suffer from a lack of structured, stand
 
 For inquiries or collaboration:
 
-- 📧 hidaya.mustafa@example.com  
-- 📧 rana.odeh@example.com  
-- 📧 katya.kobari@example.com
+- 📧 hidayamustafa3@gmail.com  
+- 📧 katyakobari@gmail.com
+- 📧 rodeh4165@gmail.com
 
 ---
 
