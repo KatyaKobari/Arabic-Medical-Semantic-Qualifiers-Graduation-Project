@@ -97,4 +97,4 @@ For inquiries or collaboration:
 ## 📝 Citation
 
 If you use this work or refer to it in your research, please cite:
-
+Katya Kobari, Hidaya Mustafa, Rana Odeh. "Arabic Medical Semantic Qualifiers", Birzeit University, July 2025.
